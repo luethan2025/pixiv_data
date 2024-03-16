@@ -26,4 +26,4 @@ Options:
   --directory <string>  destination directory (default: "./data/")
   -h, --help            display help for command
 ```
-At minimum you must at least set the url argument to successfully run the program. The dataset will be found in ./data/ by default, however, if you set the directory argument the dataset will be found there instead.
+At minimum you must at least set the url argument to successfully run the program. The dataset will be found in `./data/` by default, however, if you set the directory argument the dataset will be found there instead.
